@@ -105,7 +105,7 @@ export const UpdatesData = [
     },
     {
         img: img3,
-        name: "Iron Man",
+        name: "Ethan Smith",
         notification: "Has ordered Apple smart watch, samsung Gear 2500mAh battery.",
         time: "2 hours ago",
     },
