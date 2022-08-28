@@ -9,6 +9,11 @@ import {
     UilMoneyWithdrawal
 } from "@iconscout/react-unicons"
 
+// Recent Card Imports
+import img1 from "../imgs/img1.png";
+import img2 from "../imgs/img2.png";
+import img3 from "../imgs/img3.png";
+
 //Sidebar Data
 export const SidebarData = [
     {
@@ -82,4 +87,26 @@ export const CardsData = [
             }
         ]
     }
+];
+
+// Recent Update Card Data
+export const UpdatesData = [
+    {
+        img: img1,
+        name: "Adila Ayad",
+        notification: "Has ordered Apple smart watch 2500mAh battery.",
+        time: "12 seconds ago",
+    },
+    {
+        img: img2,
+        name: "Sophie Wang",
+        notification: "Has received Samsung gadget for charging battery.",
+        time: "15 minutes ago",
+    },
+    {
+        img: img3,
+        name: "Iron Man",
+        notification: "Has ordered Apple smart watch, samsung Gear 2500mAh battery.",
+        time: "2 hours ago",
+    },
 ];
